@@ -147,6 +147,10 @@
   border-color: #a259fe;
 }
 
+.project-image.purple2 {
+  border-color: #a259fe;
+}
+
 .project-info {
   display: -ms-grid;
   display: grid;
@@ -928,4 +932,3 @@
     justify-self: stretch;
   }
 }
-
